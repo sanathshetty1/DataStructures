@@ -10,10 +10,10 @@ namespace LinkedList
     /// Represnts a Node in the linkedlist
     /// </summary>
     /// <typeparam name="T"></typeparam>
-    class GenricNode<T>
+    class GenericNode<T>
     {
         public T dataitem;
-        public GenricNode<T> next;
+        public GenericNode<T> next;
 
     }
 }
